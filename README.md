@@ -10,7 +10,7 @@ I am Adetunji Adeyinka 😁
 I am a 15 years old Full stack web developer in Nigeria
 Here are some of the websites I have created
 
-~ [ONLINE QUIZ](http://adeyinka.000webhostapp.com/quiz/admin/), 
+~ [LIBRARY MANAGEMENT SYSTEM](http://adeyinka.000webhostapp.com/lms/librarian), 
 ~ [COVID-19 TRACKER](http://adeyinka.000webhostapp.com/corona), 
 ~ [NIGERIAN-SCHOOL FINDER](https://github.com/Itzadetunji/php-integrated-school-finder), 
 ~ [Check them all](https://github.com/itzadetunji?tab=repositories)
@@ -33,7 +33,7 @@ Here are some of the websites I have created
 
 -  PHP and Python for the backend.
 <p>
-    <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="apache" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" height="40"/> 
 </p>
@@ -51,15 +51,14 @@ Here are some of the websites I have created
 </p>
 
 
-- use postman for testing APIs and for making API documentation.
-<p>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" height="40"/> 
-</p>
-
-
-- Others
+I am also a Video Editor
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" height="40"/> 
+</p>
+
+I also make effects using After Effects
+<p>
+    
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> 
 </p>
 
