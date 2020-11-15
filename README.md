@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏿
 
-<!-- <h1 align="center"> Hi there 👋🏾 </h1> -->
-<img src="https://raw.githubusercontent.com/eni4sure/eni4sure/master/header.png" alt="My Profile Header Image" /> 
+<img src="https://github.com/Itzadetunji/itzadetunji/blob/main/github%20twitter%20clone.png" alt="My Profile Header Image" /> 
 
 <hr>
 
@@ -51,24 +50,20 @@ Here are some of the websites I have created
 </p>
 
 
-I am also a Video Editor
+I am also a Video Editor 😎 
+I make effects using After Effects, Premiere Pro and Adobe Illustrator
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/>
 </p>
 
-I also make effects using After Effects
-<p>
-    
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> 
-</p>
+<!-- <h1 align="center">My Stats</h1> -->
 
-<h1 align="center">My Stats</h1>
-
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzadetunji&layout=compact" alt="itzadetunji" />
     &nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=itzadetunji&show_icons=true" alt="itzadetunji" />
-</div>
+</div> -->
 
 
 <h1 align="center">My Social Accounts</h1>
