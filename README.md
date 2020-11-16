@@ -73,7 +73,7 @@ I make effects using After Effects, Premiere Pro and Adobe Illustrator
         ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="eniola-osabiya" height="50" />
     </a>
     &nbsp;
-      <a href="https://instagram.com/itzadetnji" target="_blank">
+      <a href="https://instagram.com/itzadetunji" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="itzadetunji" height="50" />
     </a>
     &nbsp;
