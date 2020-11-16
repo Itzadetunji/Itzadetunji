@@ -32,7 +32,6 @@ Here are some of the websites I have created
 
 -  PHP and Python for the backend.
 <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="apache" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" height="40"/> 
 </p>
@@ -53,8 +52,9 @@ Here are some of the websites I have created
 I am also a Video Editor 😎 
 I make effects using After Effects, Premiere Pro and Adobe Illustrator
 <p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="apache" height="40"/> 
+    <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/200px-Adobe_After_Effects_CC_icon.png" alt="electron" height="40"/> 
+    <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/premiere-cc-logo-png-transparent.png" alt="figma" height="40"/>
 </p>
 
 <!-- <h1 align="center">My Stats</h1> -->
@@ -69,33 +69,25 @@ I make effects using After Effects, Premiere Pro and Adobe Illustrator
 <h1 align="center">My Social Accounts</h1>
 
 <p align="center">
-    <a href="https://linkedin.com/in/eniola-osabiya" target="_blank"
+    <a href="https://www.linkedin.com/in/adetunji-adeyinka" target="_blank"
         ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="eniola-osabiya" height="50" />
     </a>
     &nbsp;
-      <a href="https://instagram.com/eni4sure" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="eni4sure" height="50" />
+      <a href="https://instagram.com/itzadetnji" target="_blank">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="itzadetunji" height="50" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/eni4sure" target="_blank">
-        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="eni4sure" height="50" />
+    <a href="https://twitter.com/AdetunjiPeterA1" target="_blank">
+        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="AdetunjiPeterA1" height="50" />
     </a>
     &nbsp;
-    <a href="https://fb.com/eni4sure" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="eni4sure" height="50" />
+    <a href="https://www.facebook.com/adetunji.adeyinka.1238" target="_blank">
+        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Adetunji adeyinka" height="50" />
     </a>
     &nbsp
     <br><br>
-    <a href="https://kaggle.com/eni4sure" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="eni4sure" height="40" />
-    </a>
     <a href="https://www.hackerrank.com/eni4sure" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="eni4sure" height="40" />
     </a>
-    <a href="https://www.leetcode.com/eni4sure" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="eni4sure" height="40" />
-    </a>
-    <br><br>
-    <img src="https://komarev.com/ghpvc/?username=eni4sure" alt="eni4sure" />
 </p>
 
