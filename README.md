@@ -60,6 +60,7 @@ I make effects using After Effects, Premiere Pro and Adobe Illustrator
 <p>
     <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/Capture.PNG" alt="adobe after effects"/> 
 </p>
+[Check This Out 👆🏿](https://github.com/Itzadetunji/itzadetunji/blob/main/CALEB%20CAMERA%20LOGO%202%2060fps%2011-11-20%203-18.mp4), 
 
 <!-- <h1 align="center">My Stats</h1> -->
 
@@ -90,8 +91,8 @@ I make effects using After Effects, Premiere Pro and Adobe Illustrator
     </a>
     &nbsp
     <br><br>
-    <a href="https://www.hackerrank.com/eni4sure" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="eni4sure" height="40" />
+    <a href="https://www.hackerrank.com/adetunjiadeyink1" target="_blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="adetunjiadeyink1" height="40" />
     </a>
 </p>
 
