@@ -56,6 +56,10 @@ I make effects using After Effects, Premiere Pro and Adobe Illustrator
     <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/200px-Adobe_After_Effects_CC_icon.png" alt="electron" height="40"/> 
     <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/premiere-cc-logo-png-transparent.png" alt="figma" height="40"/>
 </p>
+<br>
+<p>
+    <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/Capture.PNG" alt="adobe after effects"/> 
+</p>
 
 <!-- <h1 align="center">My Stats</h1> -->
 
