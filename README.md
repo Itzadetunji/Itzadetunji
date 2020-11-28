@@ -49,7 +49,7 @@ Here are some of the websites I have created
 </p>
 
 
-I am also a Video Editor 😎 
+I am also a Video Editor 😎.
 I make effects using After Effects, Premiere Pro and Adobe Illustrator
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="apache" height="40"/> 
