@@ -6,7 +6,7 @@
 
 I am Adetunji Adeyinka 😁
 
-I am a 15 years old Full stack web developer in Nigeria
+I am a 15 years old Full stack web developer in Nigeria.
 Here are some of the websites I have created
 
 ~ [LIBRARY MANAGEMENT SYSTEM](http://adeyinka.000webhostapp.com/lms/librarian), 
