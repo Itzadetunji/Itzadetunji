@@ -42,7 +42,7 @@ Here are some of the websites I have created
 </p>
 
 
-- use Git/GitHub to coordinate my Dev operations
+- Git/GitHub to coordinate my Dev operations
 <p>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/> 
