@@ -74,8 +74,8 @@ I make effects using After Effects, Premiere Pro and Adobe Illustrator
 <h1 align="center">My Social Accounts</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/adetunji-adeyinka" target="_blank"
-        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="eniola-osabiya" height="50" />
+    <a href="https://www.linkedin.com/in/adetunji-adeyinka-8aa5311b9/" target="_blank"
+        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Adetunji Adeyinka" height="50" />
     </a>
     &nbsp;
       <a href="https://instagram.com/itzadetunji" target="_blank">
@@ -87,7 +87,7 @@ I make effects using After Effects, Premiere Pro and Adobe Illustrator
     </a>
     &nbsp;
     <a href="https://www.facebook.com/adetunji.adeyinka.1238" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Adetunji adeyinka" height="50" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Adetunji Adeyinka" height="50" />
     </a>
     &nbsp
     <br><br>
