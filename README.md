@@ -51,6 +51,9 @@ Here are some of the websites I have created
 
 I am also a Video Editor 😎.
 I make effects using After Effects, Premiere Pro and Adobe Illustrator
+
+I want to be the Elon Musk of Nigeria
+
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="apache" height="40"/> 
     <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/200px-Adobe_After_Effects_CC_icon.png" alt="electron" height="40"/> 
