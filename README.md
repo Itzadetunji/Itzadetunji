@@ -62,8 +62,9 @@ I want to be the Elon Musk of Nigeria
 <br>
 <p>
     <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/Capture.PNG" alt="adobe after effects"/> 
-</p> 
-~ [Check This Out 👆🏿](https://github.com/Itzadetunji/itzadetunji/blob/main/CALEB%20CAMERA%20LOGO%202%2060fps%2011-11-20%203-18.mp4),
+</p>
+
+~ <a href="https://github.com/Itzadetunji/itzadetunji/blob/main/CALEB%20CAMERA%20LOGO%202%2060fps%2011-11-20%203-18.mp4">Check This Out 👆🏿</a>
 
 <!-- <h1 align="center">My Stats</h1> -->
 
