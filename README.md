@@ -1,6 +1,4 @@
-### Hi there 👋🏿
-
-<img src="https://github.com/Itzadetunji/itzadetunji/blob/main/github%20twitter%20clone.png" alt="My Profile Header Image" /> 
+<img src="https://github.com/Itzadetunji/itzadetunji/blob/main/my_github_banner.png" alt="My Profile Header Image" /> 
 
 <hr>
 
@@ -60,11 +58,6 @@ I want to be the Elon Musk of Nigeria
     <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/premiere-cc-logo-png-transparent.png" alt="figma" height="40"/>
 </p>
 <br>
-//<p>
-//    <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/Capture.PNG" alt="adobe after effects"/> 
-//</p>
-
-//~ <a href="https://github.com/Itzadetunji/itzadetunji/blob/main/CALEB%20CAMERA%20LOGO%202%2060fps%2011-11-20%203-18.mp4">Check This Out 👆🏿</a>
 
 <!-- <h1 align="center">My Stats</h1> -->
 
@@ -86,7 +79,7 @@ I want to be the Elon Musk of Nigeria
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="itzadetunji" height="50" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/AdetunjiPeterA1" target="_blank">
+    <a href="https://twitter.com/Itzadetunji1" target="_blank">
         <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="AdetunjiPeterA1" height="50" />
     </a>
     &nbsp;
