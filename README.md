@@ -13,9 +13,9 @@ I am a 16 years old Full stack web developer in Nigeria.
 
 -  HTML, CSS and Javascrpt.
 <p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-html-5-96.png" alt="html5" height="40"/> 
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-css3-96.png" alt="css3" height="40"/>
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-javascript-96.png" alt="javascript" height="40"/>
 </p>
 -  Frameworks (Ajax, Bootstrap, JQuery, W3CSS).
 <p> 
