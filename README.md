@@ -17,18 +17,20 @@ I am a 16 years old Full stack web developer in Nigeria.
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-css3-96.png" alt="css3" height="40"/>
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-javascript-96.png" alt="javascript" height="40"/>
 </p>
--  Frameworks (Ajax, Bootstrap, JQuery, W3CSS).
+-  Frameworks (Bootstrap, JQuery, W3CSS, Tailwindcss).
 <p> 
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-bootstrap-96.png" alt="bootstrap" height="40"/> 
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-jquery-100.png" alt="jquery" height="40"/>
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-w3css-96.jpg" alt="w3css" height="40"/> 
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-tailwind-100.png" alt="w3css" height="40"/>
 </p>
 
 
--  PHP and Python for the backend.
+-  PHP, Laravel and Python(A little) for the backend.
 <p>
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-php-logo-80.png" alt="php" height="40"/>
-    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-python-144.png" alt="python" height="40"/> 
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-python-144.png" alt="python" height="40"/>
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-laravel-100.png" alt="python" height="40"/>
 </p>
 
 -  MySQL for database management.
