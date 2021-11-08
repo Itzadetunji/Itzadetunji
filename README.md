@@ -17,6 +17,7 @@ I am a 16 years old Full stack web developer in Nigeria.
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-css3-96.png" alt="css3" height="40"/>
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-javascript-96.png" alt="javascript" height="40"/>
 </p>
+
 -  Frameworks (Bootstrap, JQuery, W3CSS, Tailwindcss).
 <p> 
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-bootstrap-96.png" alt="bootstrap" height="40"/> 
@@ -46,15 +47,16 @@ I am a 16 years old Full stack web developer in Nigeria.
 </p>
 
 
-I am also a Video Editor 😎.
-I make effects using After Effects and Premiere Pro
-
-I want to be the Elon Musk of Nigeria
+<p>I am also a Video Editor 😎.</p>
+<>I make effects using After Effects and Premiere Pro.</p>
 
 <p>
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-after-100.jpeg" alt="after effects" height="40"/> 
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-adobe-premiere-pro-96.png" alt="figma" height="40"/>
 </p>
+
+I want to be the Elon Musk of Nigeria
+
 <br>
 
 <!-- <h1 align="center">My Stats</h1> -->
