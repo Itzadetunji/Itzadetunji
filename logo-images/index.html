@@ -1,0 +1,44 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Vue Instance Overview</title>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.js"
+    integrity="sha256-kzv+r6dLqmz7iYuR2OdwUgl4X5RVsoENBzigdF5cxtU=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div id="app">
+    <p>{{ message }}</p>
+    <button v-on:click="changeMessage">Say Bye!</button>
+    <p v-if="changed">Message changed</p>
+  </div>
+
+  <script>
+    new Vue({
+      el: '#app',
+      data: {
+        message: null,
+        changed: false
+      },
+      methods: {
+        changeMessage() {
+          this.message = 'Bye!';
+        }
+      },
+      watch: {
+        message: function (newVal, oldVal) {
+          this.changed = newVal !== oldVal && oldVal !== null;
+        }
+      },
+      created() {
+        console.log('I was created');
+      }
+    })
+  </script>
+</body>
+
+</html>
