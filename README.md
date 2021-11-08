@@ -5,12 +5,8 @@
 I am Adetunji Adeyinka 😁
 
 I am a 16 years old Full stack web developer in Nigeria.
-Here are some of the websites I have created
 
-~ [LIBRARY MANAGEMENT SYSTEM](http://adeyinka.000webhostapp.com/lms/librarian), 
-~ [COVID-19 TRACKER](http://adeyinka.000webhostapp.com/corona), 
-~ [NIGERIAN-SCHOOL FINDER](https://github.com/Itzadetunji/php-integrated-school-finder), 
-~ [Check them all](https://github.com/itzadetunji?tab=repositories)
+~ [Check out my repos here](https://github.com/itzadetunji?tab=repositories)
 
 <h1 align="center">I implement:</h1>
 
