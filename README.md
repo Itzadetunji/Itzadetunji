@@ -19,39 +19,39 @@ I am a 16 years old Full stack web developer in Nigeria.
 </p>
 -  Frameworks (Ajax, Bootstrap, JQuery, W3CSS).
 <p> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="40"/> 
-    <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="40"/> 
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-bootstrap-96.png" alt="bootstrap" height="40"/> 
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-jquery-100.png" alt="jquery" height="40"/>
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-w3css-96.jpg" alt="w3css" height="40"/> 
 </p>
 
 
 -  PHP and Python for the backend.
 <p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" height="40"/> 
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-php-logo-80.png" alt="php" height="40"/>
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-python-144.png" alt="python" height="40"/> 
 </p>
 
 -  MySQL for database management.
 <p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-mysql-logo-96.png" alt="mysql" height="40"/>
 </p>
 
 
 - Git/GitHub to coordinate my Dev operations
 <p>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/> 
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-git-96.png" alt="git" height="40"/> 
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-github-50.png" alt="github" height="40"/> 
 </p>
 
 
 I am also a Video Editor 😎.
-I make effects using After Effects, Premiere Pro and Adobe Illustrator
+I make effects using After Effects and Premiere Pro
 
 I want to be the Elon Musk of Nigeria
 
 <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="apache" height="40"/> 
-    <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/200px-Adobe_After_Effects_CC_icon.png" alt="electron" height="40"/> 
-    <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/premiere-cc-logo-png-transparent.png" alt="figma" height="40"/>
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-after-100.jpeg" alt="after effects" height="40"/> 
+    <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-adobe-premiere-pro-96.png" alt="figma" height="40"/>
 </p>
 <br>
 
@@ -68,24 +68,24 @@ I want to be the Elon Musk of Nigeria
 
 <p align="center">
     <a href="https://www.linkedin.com/in/adetunji-adeyinka-8aa5311b9/" target="_blank"
-        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Adetunji Adeyinka" height="50" />
+        ><img align="center" src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-linkedin-96.png" alt="Adetunji Adeyinka" height="50" />
     </a>
     &nbsp;
       <a href="https://instagram.com/itzadetunji" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="itzadetunji" height="50" />
+        <img align="center" src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-instagram-96.png" alt="itzadetunji" height="50" />
     </a>
     &nbsp;
     <a href="https://twitter.com/Itzadetunji1" target="_blank">
-        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="AdetunjiPeterA1" height="50" />
+        <img align="center" src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-twitter-96.png" alt="AdetunjiPeterA1" height="50" />
     </a>
     &nbsp;
     <a href="https://www.facebook.com/adetunji.adeyinka.1238" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Adetunji Adeyinka" height="50" />
+        <img align="center" src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-facebook-100.png" alt="Adetunji Adeyinka" height="50" />
     </a>
     &nbsp
     <br><br>
     <a href="https://www.hackerrank.com/adetunjiadeyink1" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="adetunjiadeyink1" height="40" />
+        <img align="center" src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-hackerrank-100.png" alt="adetunjiadeyink1" height="40" />
     </a>
 </p>
 
