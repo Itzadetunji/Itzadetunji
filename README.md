@@ -48,7 +48,7 @@ I am a 16 years old Full stack web developer in Nigeria.
 
 
 <p>I am also a Video Editor 😎.</p>
-<>I make effects using After Effects and Premiere Pro.</p>
+<p>I edit using After Effects and Premiere Pro.</p>
 
 <p>
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-after-100.jpeg" alt="after effects" height="40"/> 
