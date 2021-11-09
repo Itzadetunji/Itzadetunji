@@ -99,10 +99,8 @@ I want to be the Elon Musk of Nigeria
     <a href="https://www.facebook.com/adetunji.adeyinka.1238" target="_blank">
         <img align="center" src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-facebook-100.png" alt="Adetunji Adeyinka" height="50" />
     </a>
-    &nbsp
-    <br><br>
     <a href="https://www.hackerrank.com/adetunjiadeyink1" target="_blank">
-        <img align="center" src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-hackerrank-100.png" alt="adetunjiadeyink1" height="40" />
+        <img align="center" src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-hackerrank-100.png" alt="adetunjiadeyink1" height="50" />
     </a>
 </p>
 
