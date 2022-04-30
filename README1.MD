@@ -42,7 +42,7 @@
 
 - [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itzadetunji)
 - [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itzadetunji1)
-- [![linkedin](https://img.shields.io/badge/Linked_in-30363D?style=for-the-badge&logo=linked-ins&logoColor=#white)](https://github.com/sponsors/matteobruni)
+- [![linkedin](https://img.shields.io/badge/Linked_in-30363D?style=for-the-badge&logo=linked-ins&logoColor=#white)](https://www.linkedin.com/in/adetunji-adeyinka-8aa5311b9/?lipi=urn%3Ali%3Apage%3Amynetwork_index%3B549fe3da-525d-4319-8cd0-33662255fbb6)
 
 ---
 
