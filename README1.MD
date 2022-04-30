@@ -46,6 +46,10 @@
 
 ---
 
+<h4 align="center">Top Languages</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzadetunji&langs_count=10&theme=tokyonight&layout=compact" alt="Itzadetunji :: Top Langs" /></p>
+
 ![stats](https://github-readme-stats.vercel.app/api?username=itzadetunji)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzadetunji)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=itzadetunji)
