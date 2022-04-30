@@ -36,7 +36,7 @@
 #### Gaming
 
 - ![playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-- ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=playstation&logoColor=white)
+- ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 #### Social
 
