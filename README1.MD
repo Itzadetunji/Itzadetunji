@@ -52,5 +52,5 @@
 
 ---
 
-<p align="center"> ### Visitor Count 👀 </p>
+<h1 align="center">Visitor Count 👀 </h1>
 <p align="center"><img src="https://profile-counter.glitch.me/{Itzadetunji}/count.svg" alt="Itzadetunji :: Visitor's Count" /></p>
