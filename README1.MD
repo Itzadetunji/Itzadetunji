@@ -52,6 +52,4 @@
 
 ---
 
-### Open Source Projects
-
-- tsParticles [Source](https://github.com/matteobruni/tsparticles) [HomePage](https://particles.js.org)
+### Visitor Count
