@@ -52,5 +52,5 @@
 
 ---
 
-### Visitor Count 👀
-<img src="https://profile-counter.glitch.me/{Itzadetunji}/count.svg" alt="Itzadetunji :: Visitor's Count" />
+<p align="center"> ### Visitor Count 👀 </p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Itzadetunji}/count.svg" alt="Itzadetunji :: Visitor's Count" /></p>
