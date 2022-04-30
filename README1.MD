@@ -47,9 +47,9 @@
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=matteobruni)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobruni)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=matteobruni)
+![stats](https://github-readme-stats.vercel.app/api?username=itzadetunji)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzadetunji)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=itzadetunji)
 
 ---
 
