@@ -35,8 +35,8 @@
 
 #### Gaming
 
-- ![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-- ![nintendo](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+- ![playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+- ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=playstation&logoColor=white)
 
 #### Social
 
