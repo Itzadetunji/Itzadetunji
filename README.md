@@ -27,7 +27,7 @@
 ![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-<h4>My Dev Devices and Softwares</h4>
+<h4>My Dev Devices and Softwares 😎</h4>
 
 - ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![apple laptop](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white) ![apple silicon](https://img.shields.io/badge/Apple-Apple_Silicon-FFFFFF?style=for-the-badge&logo=apple&logoColor=white) MacBook Air 13" (2020)
 - ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
