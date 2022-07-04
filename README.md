@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Banner](https://github.com/Itzadetunji/Itzadetunji/blob/main/Banner.jpg)
+
 <h4>Languages</h4>
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
