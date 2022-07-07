@@ -48,7 +48,7 @@
 
 ---
 
-<h4 align="left">Top Languages</h4>
+<h4 align="left">My Top Languages</h4>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzadetunji&langs_count=10&theme=tokyonight&layout=compact" alt="Itzadetunji :: Top Langs" /></p>
 
