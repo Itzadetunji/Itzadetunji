@@ -4,7 +4,7 @@
 
 I am Adetunji Adeyinka 😁
 
-I am a 16 years old Full stack web developer in Nigeria.
+I am a 16 years old Full stack web developer in Nigeria
 
 ~ [Check out my repos here](https://github.com/itzadetunji?tab=repositories)
 
