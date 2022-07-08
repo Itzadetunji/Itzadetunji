@@ -11,7 +11,7 @@ I am a 16 years old Full stack web developer in Nigeria.
 <h1 align="center">I implement:</h1>
 
 
--  HTML, CSS and Javascrpt.
+-  HTML, CSS and Javascrpt
 <p>
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-html-5-96.png" alt="html5" height="40"/> 
     <img src="https://github.com/Itzadetunji/Itzadetunji/blob/main/logo-images/icons8-css3-96.png" alt="css3" height="40"/>
