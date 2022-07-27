@@ -35,7 +35,7 @@
 - ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 - ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<h4>Gaming</h4>
+<h4>Gaming 🎮</h4>
 
 - ![playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 - ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
@@ -48,7 +48,7 @@
 
 ---
 
-<h4 align="left">My Top Languages</h4>
+<h4 align="left">My Top Languages 🗣️</h4>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzadetunji&langs_count=10&theme=tokyonight&layout=compact" alt="Itzadetunji :: Top Langs" /></p>
 
