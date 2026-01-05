@@ -59,4 +59,4 @@
 ---
 
 <h4 align="center">Visitor Count 👀 </h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Itzadetunji}/count.svg" alt="Itzadetunji :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.deno.dev/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/count.svg" alt="Itzadetunji :: Visitor's Count" /></p>
