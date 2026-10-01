@@ -59,4 +59,4 @@
 ---
 
 <h4 align="center">Visitor Count 👀 </h4>
-<p align="center"><img src="https://profile-counter.deno.dev/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/count.svg" alt="Itzadetunji :: Visitor's Count" /></p>
+<p align="center"><img src="https://counter.itzadetunji.com/api/v1/apps/4450-6ea5/badge?style=retro" alt="Itzadetunji :: Visitor's Count" /></p>
